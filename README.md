@@ -1,16 +1,22 @@
-### Hi there 👋
+### こんにちは 👋
 
-<!--
-**okuruu/okuruu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const currentWorkplace:object = {
+        company   : 'Dea Bakery',
+        position  : 'Lead Software Engineer'
+};
 
-Here are some ideas to get you started:
+const generalKnowledge:object = {
+        language    : ['Typescript','PHP','Python','Dart','SQL','Java'],
+        using       : ['Svelte','Sveltekit','Bootstrap','DaisyUI','Laravel','Codeigniter','Android Studio','Flutter'],
+        databases   : ['MySQL','SQLite','Supabase'],
+        tools       : ['Figma','Photoshop','Premiere','Trello','Jira','Notion','Looker Studio']
+};
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+function aboutMe(): object {
+    return {
+        name : 'okuruu',
+        knowledge : generalKnowledge,
+        workingAt : currentWorkplace,
+        funFact : 'The 🦄 is the national animal of Scotland'
+    };
+}
