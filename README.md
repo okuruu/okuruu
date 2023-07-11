@@ -1,5 +1,6 @@
 ### こんにちは 👋
 
+```typescript
 const currentWorkplace:object = {
         company   : 'Dea Bakery',
         position  : 'Lead Software Engineer'
@@ -20,3 +21,4 @@ function aboutMe(): object {
         funFact : 'The 🦄 is the national animal of Scotland'
     };
 }
+```
