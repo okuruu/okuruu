@@ -15,10 +15,10 @@ const generalKnowledge:object = {
 
 function aboutMe(): object {
     return {
-        name : 'okuruu',
-        knowledge : generalKnowledge,
-        workingAt : currentWorkplace,
-        funFact : 'The 🦄 is the national animal of Scotland'
+        name        : 'okuruu',
+        knowledge   : generalKnowledge,
+        workingAt   : currentWorkplace,
+        funFact     : 'The 🦄 is the national animal of Scotland'
     };
 }
 ```
