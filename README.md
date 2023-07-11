@@ -13,7 +13,7 @@ const generalKnowledge:object = {
         tools       : ['Figma','Photoshop','Premiere','Trello','Jira','Notion','Looker Studio']
 };
 
-function aboutMe(): object {
+function aboutMe():object {
     return {
         name        : 'okuruu',
         knowledge   : generalKnowledge,
