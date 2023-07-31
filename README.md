@@ -16,7 +16,7 @@ let generalKnowledge:object = {
         tools       : ['Figma','Photoshop','Premiere','Trello','Jira','Notion','Looker Studio','Pandas','Git']
 };
 
-function aboutMe():object {
+function aboutMe() {
     return {
         name        : 'okuruu',
         knowledge   : generalKnowledge,
