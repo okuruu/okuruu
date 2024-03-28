@@ -7,9 +7,9 @@ let currentWorkplace:object = {
 };
 
 let generalKnowledge:object = {
-        language    : ['Typescript','PHP','Python','Dart','SQL','Java'],
+        language    : ['Typescript','PHP','Rust','Python','Dart','SQL','Java'],
         using       : [
-            'Svelte','Sveltekit','Bootstrap','DaisyUI','NodeJS',
+            'Sveltekit','Tauri','Bootstrap','DaisyUI','NodeJS',
             'Laravel','Codeigniter','Android Studio','Flutter'
         ],
         databases   : ['MySQL','SQLite','Supabase','Firestore'],
