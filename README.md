@@ -15,7 +15,7 @@ let generalKnowledge:object = {
         ],
         databases   : ['MySQL','SQLite','Supabase','Firestore'],
         tools       : ['Figma','Photoshop','Premiere','Trello','Jira','Notion','Looker Studio','Pandas','Git'],
-        os: ['Arch','Windows','Mac']
+        os          : ['Arch']
 };
 
 function aboutMe() {
