@@ -14,7 +14,8 @@ let generalKnowledge:object = {
             'Rocket', 'Bun;
         ],
         databases   : ['MySQL','SQLite','Supabase','Firestore'],
-        tools       : ['Figma','Photoshop','Premiere','Trello','Jira','Notion','Looker Studio','Pandas','Git']
+        tools       : ['Figma','Photoshop','Premiere','Trello','Jira','Notion','Looker Studio','Pandas','Git'],
+        os: ['Arch','Windows','Mac']
 };
 
 function aboutMe() {
