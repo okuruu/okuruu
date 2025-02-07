@@ -1,12 +1,12 @@
 ### こんにちは 👋
 
 ```typescript
-let currentWorkplace:object = {
+let currentWorkplace: object = {
         company   : 'Dea Bakery',
         position  : 'Lead Software Engineer'
 };
 
-let generalKnowledge:object = {
+let generalKnowledge: object = {
         language    : ['Typescript','PHP','Rust','Python','Dart','SQL','Java'],
         using       : [
             'Sveltekit','Tauri','Bootstrap','DaisyUI','NodeJS',
