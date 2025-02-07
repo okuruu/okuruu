@@ -10,7 +10,8 @@ let generalKnowledge:object = {
         language    : ['Typescript','PHP','Rust','Python','Dart','SQL','Java'],
         using       : [
             'Sveltekit','Tauri','Bootstrap','DaisyUI','NodeJS',
-            'Laravel','Codeigniter','Android Studio','Flutter'
+            'Laravel','Codeigniter','Android Studio','Flutter',
+            'Rocket', 'Bun;
         ],
         databases   : ['MySQL','SQLite','Supabase','Firestore'],
         tools       : ['Figma','Photoshop','Premiere','Trello','Jira','Notion','Looker Studio','Pandas','Git']
