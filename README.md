@@ -11,10 +11,10 @@ let generalKnowledge: object = {
         using       : [
             'Sveltekit','Tauri','Bootstrap','DaisyUI','NodeJS',
             'Laravel','Codeigniter','Android Studio','Flutter',
-            'Rocket', 'Bun;
+            'Rocket','Bun','Mastra';
         ],
         databases   : ['MySQL','SQLite','Supabase','Firestore'],
-        tools       : ['Figma','Photoshop','Premiere','Trello','Jira','Notion','Looker Studio','Pandas','Git'],
+        tools       : ['Figma','Photoshop','Premiere','Trello','Jira','Notion','Coda','Looker Studio','Pandas','Git'],
         os          : 'Arch'
 };
 
